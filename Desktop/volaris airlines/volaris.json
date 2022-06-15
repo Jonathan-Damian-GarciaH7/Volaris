@@ -1,0 +1,15 @@
+
+[
+
+    {"origen" :"EZEIZA", "destino": "CORDOBA", "valor"  : "$4000" },
+
+    {"origen":"EZEIZA", "destino": "BARILOCHE", "valor": "$7000"},
+
+    {"origen":"EZEIZA", "destino": "JUJUY","valor": "$5000"},
+
+    {"origen":"EZEIZA", "destino": "CALAFATE", "valor": "$8500"},
+
+    {"origen":"EZEIZA", "destino": "IGUAZU", "valor": "$5000"}
+
+]
+
